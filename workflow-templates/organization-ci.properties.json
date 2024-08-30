@@ -1,7 +1,7 @@
 { 
     "name": ["test"]
     "description": ["opis"]
-    "iconName": ["languages"]
+    "iconName": ["python"]
     "categories": [  
         "Go" 
     ], 
