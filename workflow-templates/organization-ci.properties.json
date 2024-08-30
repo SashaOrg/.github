@@ -1,8 +1,7 @@
 { 
-    "name": test
-    "description": opis
-    "iconName": "https://github.com/github-
-linguist/linguist/blob/master/lib/linguist/languages.yml"
+    "name": ["test"]
+    "description": ["opis"]
+    "iconName": ["https://github.com/github-linguist/linguist/blob/master/lib/linguist/languages.yml"]
     "categories": [  
         "Go" 
     ], 
