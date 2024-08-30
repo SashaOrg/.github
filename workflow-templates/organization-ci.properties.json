@@ -1,6 +1,6 @@
 { 
-    "name": <NAZWA>, # ⬅  Wymagane. Wypełnić dowolną nazwą 
-    "description": <OPIS>, # ⬅  Wymagane.  
+    "name": test
+    "description": opis
     "iconName": "example-icon", # ⬅  Nazwa pliku SVG (bez rozszerzenia!) który 
 jest katalogu workflow 
     # Można użyć wartości jednej z 3 kategorii: 
